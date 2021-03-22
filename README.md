@@ -1,2 +1,2 @@
 # resolusi-galing
-Repository untuuk menyimpan rencana si Galing kedepannya
+Repository untuk menyimpan rencana si Galing kedepannya
